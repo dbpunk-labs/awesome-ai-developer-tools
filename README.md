@@ -16,6 +16,11 @@
 * [mutable](https://app.mutable.ai/) Understand and improve your favorite repositories with ease using Mutable.ai
 * [cody](https://about.sourcegraph.com/cody) answers code questions and writes code for you by reading your entire codebase and the code graph
 
+## Code Review
+
+* [pr-agent](https://github.com/Codium-ai/pr-agent) An AI-Powered robot Tool for Automated Pull Request Analysis, Feedback, Suggestions and More
+* [pr-codex](https://github.com/decentralizedlabs/pr-codex) A ChatGPT-powered bot to summarize PR code diffs
+  
 ## Code Collaboration
 
 * [stepsize](https://stepsize.com/) AI updates for every situation
