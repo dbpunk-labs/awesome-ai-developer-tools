@@ -26,6 +26,11 @@
 
 * [stepsize](https://stepsize.com/) AI updates for every situation
 
+## Code Interpreter
+* [Octogen](https://www.octogen.dev/) Octogen is an Open-Source Code Interpreter Agent Serivce Powered by GPT3.5/4 and Codellama
+
+
+
   
 
 
