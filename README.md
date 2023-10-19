@@ -4,7 +4,7 @@
 
 * [copilot x](https://github.com/features/preview/copilot-x) Your AI pair programmer
 * [tabnine](https://www.tabnine.com/) AI assistant that speeds up delivery and keeps your code safe
-* [codepin-cli](CodeSpin.AI Code Generation Tools) 
+* [codepin-cli](https://github.com/codespin-ai/codespin-cli) CodeSpin.AI Code Generation Tools
 
 ## Code Quality
 
