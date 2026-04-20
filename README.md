@@ -3,6 +3,7 @@
 ## Code Editing
 
 * [copilot x](https://github.com/features/preview/copilot-x) Your AI pair programmer
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** - AI-powered coding toolbar for any web app. Captures element context, previews diffs, and applies approved changes through a reverse proxy.
 * [tabnine](https://www.tabnine.com/) AI assistant that speeds up delivery and keeps your code safe
 * [codepin-cli](https://github.com/codespin-ai/codespin-cli) CodeSpin.AI Code Generation Tools
 
