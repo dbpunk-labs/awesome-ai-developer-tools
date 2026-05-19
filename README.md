@@ -21,6 +21,10 @@
 
 * [pr-agent](https://github.com/Codium-ai/pr-agent) An AI-Powered robot Tool for Automated Pull Request Analysis, Feedback, Suggestions and More
 * [pr-codex](https://github.com/decentralizedlabs/pr-codex) A ChatGPT-powered bot to summarize PR code diffs
+
+## Agent Observability
+
+* [agenttrace](https://github.com/luoyuctl/agenttrace) Open-source observability and audit trail for AI coding agent sessions
   
 ## Code Collaboration
 
