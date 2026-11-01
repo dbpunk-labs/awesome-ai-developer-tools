@@ -8,6 +8,7 @@
 
 ## Code Quality
 
+* [agent-qa](https://vostride.com) Natural-language QA for web, Android and iOS with memidex persistent memory and validated self-improvement (early-stage)
 * [Pythagora](https://github.com/Pythagora-io/pythagora) is on a mission to make automated tests 🤖 fully autonomous 🤖
 * [codium](https://www.codium.ai/) Generating meaningful tests for busy devs
 
